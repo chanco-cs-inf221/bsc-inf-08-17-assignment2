@@ -1,0 +1,72 @@
+body{
+	padding: 15px;	
+	background-image: url(kho1.JPG);
+	
+}
+img{
+	width: 20%;
+	border-radius: 1em;
+}
+
+h2{
+	text-align: center;
+	border-radius: 1em;
+	color: white;
+}
+.project a{
+	
+	
+	color: white;
+	font-size: 20px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+.project{
+	border-radius: 1em;
+    background-color: transparent;
+
+    padding: 10px;
+    color: white;
+}
+.works{
+	border-radius: 1em;
+    background-color: transparent;
+    padding: 10px;
+    color: white;
+}
+.works a{
+	
+	
+	color: white;
+	font-size: 20px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	box-sizing: border-box;
+	text-decoration: none;
+	
+}
+input {
+	width: 100%;
+   color: #000000;
+   border-radius: 1em;
+   padding: 1em;
+   box-sizing: border-box;
+   
+}
+
+   
+
+p textarea{
+	width: 100%;
+	color:  #000000;
+	border-radius: 1em;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+.links {
+	color:  #000000;
+	margin-top:8%;
+	
+}
